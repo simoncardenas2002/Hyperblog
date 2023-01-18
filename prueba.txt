@@ -1,5 +1,6 @@
 Mi nombre es Simón Cárdenas
 tengo 20 años
-estoy aprendiendo a programar
+estoy aprendiendo a programar para aplicar en 
+inteligencia artificial
 estoy en indiana, Estados Unidos
 Aprovecho el tiempo haciendo este curso 
