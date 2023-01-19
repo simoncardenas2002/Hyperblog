@@ -9,3 +9,8 @@ body{
     font-style: initial;
 
 }
+#tip{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+
+}
