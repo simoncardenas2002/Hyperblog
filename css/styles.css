@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace;
     color: brown;
 }
 #contenedor{
@@ -13,4 +13,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: blue;
 
+}
+#mod{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:aqua;
 }
