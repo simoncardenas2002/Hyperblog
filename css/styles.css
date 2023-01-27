@@ -18,7 +18,14 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:aqua;
 }
+<<<<<<< HEAD
 title{
     font-style: oblique;
     color:crimson ;
+=======
+#footer{
+    font-style: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chartreuse;
+>>>>>>> footer
 }
